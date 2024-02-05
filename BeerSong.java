@@ -9,7 +9,7 @@ public class BeerSong{
         {
             if (beerNum==1)
             {
-                word="bottle";
+                word="bottle"; //one bottle
             }
 
                 System.out.println(beerNum + " " + word + " of beer on the wall");
@@ -20,7 +20,7 @@ public class BeerSong{
 
                 if (beerNum>0)
                 {
-                    System.out.println(beerNum + " " + word + " of beer on the wall");
+                    //System.out.println(beerNum + " " + word + " of beer on the wall");
                 }
                 else
                 {
