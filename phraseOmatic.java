@@ -17,7 +17,7 @@ public class phraseOmatic{
         int rand3=(int)(Math.random()*threeLength);
 
         String phrase= wordlistone[rand1]+" "+wordlisttwo[rand2]+" "+wordlistthree[rand3] ;
-        System.out.println("what we need is a"+ phrase);
+        System.out.println("what we need is a"+" "+ phrase);
 
 
     }
